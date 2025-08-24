@@ -343,31 +343,6 @@ npm test
 - Write comprehensive tests
 - Update documentation for new features
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/crypto-portfolio/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/crypto-portfolio/discussions)
-- **Email**: support@cryptoportfolio.com
-
-## 🔮 Roadmap
-
-### **Phase 2 Features**
-- [ ] Advanced charting and analytics
-- [ ] Portfolio rebalancing tools
-- [ ] Tax reporting and calculations
-- [ ] Multi-currency support
-- [ ] Mobile application
-
-### **Phase 3 Features**
-- [ ] Social trading features
-- [ ] Advanced order types
-- [ ] Portfolio sharing
-- [ ] API rate limiting
-- [ ] WebSocket real-time updates
 
 ## ⚠️ Disclaimer
 
@@ -386,7 +361,7 @@ This application is for **educational and demonstration purposes**. Cryptocurren
 
 ---
 
-**Made with ❤️ by the Crypto Portfolio Team**
+**Made with ❤️ by Varad**
 
-*Last updated: December 2024*
+
 
